@@ -192,7 +192,7 @@ Example:
 2. The doctors have not yet decided how the woman died.
 3. I have no idea what has happened to him.
 
-##2.5 造句联系：
+##2.5 造句练习：
 
 1. It hasn't been decided *yet* who will be in charge of this project.
 2. It makes all of us exciting*(very excited)* that he will join this meeting*(come to the conference)*.
@@ -202,6 +202,163 @@ Example:
 6. I have no idea when they (will) come back and live in(settle down).
 7. I have found that all the ticket(s) have(had) been sold out.
 8. The question is whether the video(TV play) is worthed to see or not(worth watching). 
+
+# 第三课：状语从句
+
+##3.1 定义
+
+状语从句：一个句子在另外一个句子中作状语，可分为时间状语、
+
+
+
+## 3.2 时间状语从句
+
+一个句子在另外一个句子中作时间状语，可称为“时间状语从句”。
+
+时间状语的连接词包括
+
+1. when、as多用于一般态，可接短暂动词，也可接延续动词；
+2. while强调动作进行，从句多用进行时，只能接延续动词；
+3. before/after:在。。之前/在。。之后，通常接短暂动词，但也可以接延续动词；
+4. until/till直到。。。，从句只能接短暂动词，主句肯定用延续动词，主句否定用短暂动词。
+5. as soon as/the moment: 一。。就。。，只能接短暂动词；
+6. no sooner...than...刚。。就。。，表示主句动作已完成，主句用过去完成时，从句用一般过去时且只能接短暂动词；
+7. hardly/scarcely...when/before...刚。。就。。，表示主句动作差点完成，主句用过去完成时，从句用一般过去时且只能接短暂动词；
+8. since/ever since:自从。。，可以接短暂动词，也可接延续动词；
+
+Example:
+
+1. When he began to play a tune, we had our first glimpse of the snake.
+2. I looked down and nearly fell off the ladder when I saw a policeman.
+3. While he was eating, I asked him to lend me twenty pounds.
+4. While the battered car was moving away, Roy stopped his bus and telephoned the police.
+5. As the thieves were trying to get away in their car, Roy drove his bus into the back of it.
+6. As she walked away, I followed her out of the fair.
+
+###3.2.1 When
+
+ When有时候也有“就在此时”的意思，用以说明前一个分局的时间。这时，when引导的从句必须放在主句后面。
+
+Example:
+
+1. I had nearly reached the town, when the young man suddenly said, very slowly, 'Do you speak English?'
+2. I was almost there when a sarcastic voice below said, 'I don't know the windows need cleaning at this time of the night'.
+
+Attention: 如果时间状语从句表示将来，一般将来时要改为一般现在时。Whenever无论何时，每当，是when的强调形式。
+
+1. I will be a teacher when I grow up.
+2. Whenever you have an aim, you must sacrifice something of freedom to attain it.
+3. Forgive others whenever you can.
+
+### 3.2.2 While
+
+While即可以作副词连词，也可以作并列连词，有两种表达：
+
+1. 表示“当。。时”，while视为副词连词，引导状语从句，此时两个句子通常时态不同。
+   1. While two detectives were keeping guard at the door, two others opened the parcel.
+   2. A robot-arm will grab the telescope and hold it while the astronauts make the necessary repairs.
+2. 表示“而。。”，while视为并列连词，连接两个分句，此时两个句子时态相同。
+   1. When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.
+
+### 3.2.3 Before/After
+
+Example:
+
+1. After I had left a small village in the south of France, I drove on to the next town.
+2. After he has retired, he will devote himself to gardening.
+3. Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.
+
+Attention：before用来说明主句的时间很长，翻译为“才”；用来说明主句的时间很短，翻译为“就”。这时，before引导的从句必须放在主句后面（两种情况都要放在后面）。
+
+1. Nearly a week passed before the girl was able to explain what had happened to her.
+
+### 3.2.4 Until/till
+
+Example:
+
+1. The young man did not wake up until the bed had struck the ground.
+2. He waited until the volcano became quiet and he was able to return two days later.
+
+### 3.2.5 As soon as/ the moment
+
+As soon as/ the moment只能接短暂动词。
+
+Example:
+
+1. As soon as he had got into the car, I said good morning to him in French and he replied in the same language.
+2. As soon as this was done, they cooked a meal over an open fire.
+3. The moment you leave this tent, you will get a big surprise.
+
+### 3.2.6 no sooner...than...或hardly/scarcely...when/before...
+
+Example:
+
+1. He had no sooner returned than he bought a house and went to live there.
+2. He had hardly had time to settle down when he sold the house and left the country.
+3. I had scarcely fallen asleep before the noise from neighbor woke me up.
+
+### 3.2.7 since/ever since
+
+since后面不可以接完成时，只能接一般态。
+
+Example:
+
+1. He had just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owner.
+2. We haven't seen each other since we graduated.
+
+### 3.2.8 造句练习
+
+1. While I was walking into the building, I saw a lady with a briefcase.
+2. You will know how great your parents are when you grow up.
+3. As(Whenever) you find you are in(on) the side with most people(of the majority), it is the time to revolution(reform).
+4. After she opens her gifts, Mary start to write thank-you notes.
+5. As soon as the rain stopped, a rainbow came out on(appeared in) the sky.
+6. The competition(game) had no sooner started than the two teams (began to) fight with each other.
+7. Lulu had hardly used her new computer when the computer was broken(it broke).
+8. We will(are going to) stay on(at) the beach until the sun set(s).
+9. Nearly three month(s) passed before David mentioned he was sick.
+10. I was waiting for Lisa in front of the movie while she came. (We waited for Lisa in front of the cinema and it was not long before she arrived.)
+
+## 3.3 地点状语从句
+
+一个句子在另外一个句子里面充当地点状语，那就是地点状语。地点状语从句的连词时where，但要注意，where引导的地点状语从句，不仅可以表示地点，还可以表示抽象意义“在。。形势之下”。地点状语从句主要由where+陈述句构成，用来表达主句动作发生的地点。
+
+Example：
+
+1. Where there is a will, there is a way.
+2. Where there is smoke, there is fire.
+3. A driver should slow down where there are schools.
+4. Where the cost of government is high, resources for development are correspondingly low.
+5. Where others ran away in fear, the soldier bravely fought against the enemy.
+
+造句练习：
+
+1. Where there is live(life), there is hope.
+2. Where I graw up, people drive on the right side of the street.
+3. The doctor suggested me to live where the air is fresh(er).
+4. Where you have enough confidence, you will succeed.
+5. No matter where(Wherever) you go, no matter what(whatever) you do, I will be right here waiting for you. 
+
+## 3.4 原因状语从句
+
+一个句子在另外一个句子里面作原因状语，称之为原因状语从句。原因状语的引导词包括because、as、since、for、in that，其中because语气最强，主要强调从句，只有它能回答why的提问，也只有because才能被only、just、perhaps来修饰，而for/in that预期最弱，主要强调主句，所以只能放在主句后面。for表示推断的理由，故多用于主句后面。
+
+Example:
+
+1. Teenagers are damaging their health because they play computer games too much.
+2. Perhaps because Mom missed so much time with her own kids, she made it up with her grandchildren.
+3. As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.
+4. I will seek to balance career and family since both are important to me.
+5. He had had a long and uncomfortable trip, for he had been confined to the wooden box for over ten hours.
+6. He didn't attend the negotiation in that he was ill.
+
+
+
+
+
+
+
+
 
 
 
