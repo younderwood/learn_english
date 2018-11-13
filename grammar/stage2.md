@@ -352,6 +352,158 @@ Example:
 5. He had had a long and uncomfortable trip, for he had been confined to the wooden box for over ten hours.
 6. He didn't attend the negotiation in that he was ill.
 
+### 3.4.1 Because和because of的区别
+
+Because of是介词短语，后面只能接名词，不能接句子。类似的介词短语还有due to、in view of、thanks to、owing to。
+
+Example:
+
+1. Because of this, he has not been able to get his own car into his garage even once.
+2. Owing to the heavy rain, there have been many mudslides in the hill lately.
+3. Thanks to great public transportation, few people in the city need to own cars.
+
+Attention：汉译英的时候，“既然”翻译为since，“由于”翻译为as。
+
+### 3.4.2 造句练习
+
+1. We will cancel the concert because the musician have(had) an accident and is in the hospital now.
+2. As the next Monday is (a) legal holiday, All the government (offices) will have a rest(be closed).
+3. Since your major is English, I guess you could help me to learn the sentence.
+4. The answer of(to) this question eluded me (for) a long time, perhaps because the question(it) was too simple.
+5. It was raining(rain) last night for the ground is wet this morning.
+
+## 3.5 结果状语从句
+
+结果状语从句就是中文里面说的“如此。。以至于。。”，连接词主要包括：so...that...，such...that...，so that。
+
+### 3.5.1 so...that...
+
+so后面要接形容词或副词，相当于形容词的分词。
+
+Example:
+
+1. Mrs. Sterling got so angry that she ran after them.
+2. My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.
+3. He did the work so badly that I had to do it all over again myself.
+
+本句型中so可以用enough替代，但enough必须后置：
+
+1. She is old enough that she can get married.
+2. She is so old that she can get married.
+3. In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve.
+
+### 3.5.2 such...that...
+
+such后面要接名词：
+
+1. The men got such a fright that they dropped the bag and ran away.
+
+### 3.5.3 特殊连词so
+
+so连接两个句子的时候，意思是“所以。。。”，其实，so作为连词时，是so that...的省略形式，引导的当然是结果状语从句。
+
+Example:
+
+1. My brother has never been abroad before, so (that) he is finding this trip very exciting.
+2. To  make matters worse, the room is rather small, so (that) I have temporarily put my books on the floor.
+
+so既可以是副词，也可以是连词，所以so引导的句子，不仅可以用逗号连接，也可以单独成句。so作为副词，其引导的句子，也可以和前面的句子分开。
+
+1. The children were at school, my husband was at work and the house was quiet. So I decided to make some meat pies.
+
+### 3.5.4 造句练习
+
+1. The fog on the lake is so thick that we can't see the other side. (The fog on the lake was very thick, so we couldn't see the other side.)
+2. Mary is so thoughtful that everybody like(s) her very much.
+3. They were such bad cookers(terrible cooks) that nobody want to go(come) to their restaurant.
+
+## 3.6 目标状语从句
+
+目的状语从句，一般翻译为“以便于。。。”,常用连词有so that, in order that, that, 主句和从句一般没有逗号隔开，在目的状语从句中，常含有情态动词。
+
+Compare:
+
+1. He worked hard at his lessons so that he could gain high grades in the exams.（目的）
+2. He worked hard at his lesson, so that he gained high grades in the exams. （结果）
+
+Example:
+
+1. This time he was barking so that someone would let him out!
+2. This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.
+3. They had taken special precautions so that no one should recognize them.
+4. I am saving money in order that I can buy a house.
+
+造句练习:
+
+1. The movie star disguised himself so that no one should recognize him in the crowd.
+2. We should get up early in the morning in order that we can see the sunrise.
+
+## 3.7 让步状语从句
+
+让步状语从句，表示“虽然。。。但是。。。”，引导让步状语从句的副词连词有：though、although、even though、even if。但主语前绝不可再加but，但可以用yet或still。
+
+Though, although, even though是对事实的让步，翻译为“虽然，尽管”。
+
+Even if是对假设的让步，翻译为“即使，哪怕是”
+
+Example：
+
+1. Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.
+2. Although the bed was smashed to pieces, the man was miraculously unhurt.
+3. Even though it was still summer, it rained continually and it was often bitterly cold.
+4. The villagers have told him that they will not accept the pub even if he gives it away.
+
+Attention: while/whereas也可以引导让步状语从句，相当于though或者although。
+
+1. While winning is not everything, trying to win is everything.
+2. Whereas you cannot turn back the clock, you can take control of your life.
+
+Attention: no matter wh-(how, what, who, which, when, where)或者however, whatever, whoever, whichever, whenever, wherever都可以引导让步状语从句。
+
+1. No matter how busy you are, he always insists on coming with you.
+2. No matter what you do, do with your might.
+3. No matter who he is, he must obey the law.
+4. No matter which people criticize you, don't let them take your focus off your dream.
+5. No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.
+6. Whatever may happen, you must keep calm.
+7. The business would be a success, whoever owned it.
+
+Attention: whether也可引导让步状语从句，表示“无论”常和or或or not一起使用
+
+1. Whether we realize it or not, each of us has the strong desire to success.
+2. Whether we win or lose, we should respect the election result.
+3. Whether or not he will stay, I really don't care.
+
+造句练习：
+
+1. Though he is my brother, we look different(don't look alike).
+2. Although my father had already been over the retirement age(is old enough to retire), he planed to (carry on working).
+3. Try your best to fight, whether you like(enjoy) it or not.
+4. Whether you or he does it(do it), the work must be finished today.
+
+## 3.8 方式状语从句
+
+方式状语从句表示动作的方式，意思是“就像。。一样，以。。样的方式”，引导词有as，as if，as though，the way。
+
+1. When in Rome, do as the Romans do.
+2. The space shuttle, as we know it, is still imperfect.
+3. He acted as if he had never lived in England before.
+4. To achieve great things we must live as though we were never going to die.
+5. You should do it the way you were taught.
+
+Attention:美式英语一般用like来替代as if/as though，但书面语中少用。
+
+1. He studies English very hard, like he did Chinese some years ago.
+
+造句练习
+
+1. You should plan your retirement as if you plan your holiday(vacation).
+2. (Please) read(pronounce) this word as(the way) I do.
+
+
+
+
+
 
 
 
