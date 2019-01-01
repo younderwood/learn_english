@@ -500,6 +500,217 @@ Attention:美式英语一般用like来替代as if/as though，但书面语中少
 1. You should plan your retirement as if you plan your holiday(vacation).
 2. (Please) read(pronounce) this word as(the way) I do.
 
+# 第四课 定语从句
+
+定语，指在句子里面专门修饰名词的部分，可以是单词、短语或句子。一个句子在另一个句子里面作定语，就交定语从句。定语从句可看成是一个很长很长的形容词。
+
+所谓定语从句，其实是两个并列句的合并。
+
+Example:
+
+1. Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.
+2. Captain Fawcett's first passenger was a doctor and the doctor flew from Birmingham to a lonely village in the Welsh mountains.
+
+定语从句的连接词叫关系词，分为两大类：
+
+1. 代词类关系词：如who、whom
+   1. 关系代词
+   2. 关系代词所有格
+   3. 复合关系代词
+2. 副词类关系词：关系副词
+
+##4.1 关系代词
+
+关系代词就是替代前面的先行词，在定语从句中作主语、宾语或表语，其中代替“人”的时候，作主语用主格who，作宾语用宾格whom；代替“物”或代替整个句子的时候，作主语或作宾语均使用which。
+
+先行词为一般名词，但其前面已有限定词或形容词修饰时，其后既可以限定性定语从句，也可以用非限定性定语从句。
+
+###4.1.1 限定性定语从句
+
+先行词为一般名词时，关系代词引导的定语从句，称为限定性定语从句。
+
+Example:
+
+1. Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.(who作主语，替代doctor)
+2. He is a man whom we should respect.(whom作宾语，替代man)
+3. In a few years the small workshop had become a large factory which employed 728 people.（which作主语，替代factory）
+4. Forest fires are often caused by cigarette ends which people carelessly throw away.(which作宾语，替代cigarette ends)
+5. In 1948, he went to Lake Kivu observe a new volcano which he later named Kituro.(which 作宾语、替代volcano)
+
+Attention：关系代词作介词的宾语时，可将介词移动到关系词之前，介词后的关系代词只能用宾格。**(一般正式的书面语是把介词放在关系代词的前面。）**
+
+1. Peter is a man whom I enjoy working with.->Peter is a man with whom I enjoy working.
+2. The city which I live in is very large. -> The city in which I live is very large. 
+
+ 
+
+
+
+###4.1.2 非限定性定语从句
+
+若定语从句只对先行词进行补充说明，则关系词前面可加上逗号，称非限定性定语从句。（关系词前面无逗号称为限定性定语从句，有逗号就是非限定性定语从句。）
+
+He waved desperately to his companion, who had been water-skiing for the last fifteen minutes.
+
+先行词为专有名词（人名或地名）及独一性名词（如father、mother...）时，因为本身就具有特殊性，其后关系代词引导的定语从句，必须是非限定性定语从句。
+
+Example：
+
+1. Einstein, who was a great scientist, created the theory of relativity.
+2. Beijing, which is the capital of China, has developed into an international city.
+3. Among them will be Debbie's mother, who swam the Channel herself when she was a girl.
+
+先行词为整个主句时，定语从句也多为非限定性定语从句，必须要加逗号。
+
+1. Jimmy is a naughty boy, which everyone knows.(Which表示宾语，替代Jimmy is a naughty boy.)
+2. 上句可以修改为Everyone knows that Jimmy is a naughty boy.
+
+That也可以作为关系代词，取代who、whom、which，但是that前不能有逗号，也不能有介词。
+
+1. This is the sort of thing that Jeremy loves.（that作宾语，替代the sort of thing）
+2. A game that is very popular with these young swimmers is the underwater tricycle race.(that作主语，替代a game)
+
+Attention：下面情形只能用that
+
+1. 先行词同时出现“人”和“物”的时候：The scientist and his inventions that the article deals with are quite familiar to us. (that作宾语，替代the scientist and his inventions，that前面全是先行词)
+2. 当先行词是不定代词(something,anything,nothing,everything)时：
+   1. I would much rather receive something that made me laugh.(that作主语，替代something)
+   2. A variable is something that can be changed and controlled.（that作主语，替代something）
+3. 先行词被绝对性形容词修饰时（如序数词，形容词的最高级，the very,the only,all,every,no等修饰时）
+   1. Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures that we have ever seen.(that作宾语，替代the clearest pictures)
+   2. All the students that are studying in our class is hardworking.（that作主语，替代All the students）
+4. 句子中有两个相同关系代词引导的定语从句时，为避免重复，其中一个用that
+   1. He works hard, which is a fact that is known to us.(which作主语，替代He works hard，that作主语，替代a fact)
+   2. My best friend was devastated by the letter which she received that rejected her application to university.(which作宾语，替代the letter，that作主语，替代the letter)
+   3. There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewellery which the old lady said was not hers. (that作主语，替代a dirty red bundle，which作主语，一样替代bundle)
+
+限定性定语从句中，若关系代词作及物动词的宾语，该关系代词可省略。若为介词的宾语，则将介词放在句尾，在省略关系代词。
+
+1. It is one of the ugliest faces (that) I have ever seen. (省略that，因为the ugliest faces是绝对性形容词，所以只能使用that)
+2. That was all (that) she remembered.(All只能被that替代)
+3. The pictures (which/that) it sent us were very disappointing because its main mirror was faulty!
+4. Peter is a man (whom) I enjoy working with.(此时不能把介词提前，同时不要用介词作为句子的结尾，所以此句改为Peter is a man with whom I enjoy working.)
+
+造句练习
+
+1. A bilingual is ~~the~~ (a) person who can speak two ~~kinds of~~ languages (equally well).
+2. Don't make friend(s) with (those)~~the person~~ whom you don't know very much.
+3. (People)~~The person~~ who wanna take part in the competition must sign up (by)before this Friday.
+4. Lulu bought (that)~~the~~ expensive skirt (which) she liked very much.
+5. I spent (the last) dollar (that I had left)~~which is the last one~~ in my bank account.
+6. I like my school which is famous for (its excellent facilities) ~~the great device~~.
+7. (At)~~On~~ the party I met a lots of (elementary schoolmates)~~primary school's classmates~~, some of whom I (didn't)~~can't~~ recognize.
+8. Peter is a very excellent engineer, which we (all) know.
+9. This is my girlfriend who can speak English very well.
+
+## 4.2 关系代词所有格
+
+​	关系代词所有格，由代词所有格his, her, their, my, your, its变化而来，关系代词所有格和后面的名词，共同作定语从句的主语，宾语。
+
+1. 无论替代人还是替代物，关系代词所有格均可以用whose；
+2. 修饰物，也可用of which；
+3. of前面是代词的时候，不用whose，用of whom；
+
+Example：
+
+1. Many people whose homes are in town want to live in the country. (whose代替人, whose homes作主语)
+2. Be a man whose word is as good as your bond.(whose代替人, whose word作主语)
+3. Success is a journey whose initial step is paved with an inner stirring.(whose代替物，whose initial step作主语)
+4. Success is a journey of which the initial step is paved with an inner stirring.(which替代a journey)
+
+名词/代词+of+whom/which这种结构，属于非限定性定语从句，表示从属关系。
+
+1. Light is the fastest thing in the world, the speed of which is 300,000 kilometers per second.
+2. The old man has three sons, one of whom is a doctor.
+3. There are 300 college students in the small hall, most of whom are freshmen.
+
+造句练习：
+
+1. This is Mary，whose father ~~dad~~ is the headmaster of our school.
+2. We live in an old house whose roof may~~be~~ collapse anytime.
+3.  This is the computer, the hard disk of which (is infected with a virus).
+
+## 4.3 复合关系代词
+
+复合关系代词what，是先行词和关系代词融为一体，形成的关系代词，相当于the thing that。所以，复合关系代词引导的定语从句，**前面绝对没有先行词**。What也可以被all that代替。
+
+Example:
+
+1. What John said may be true;
+2. What was said by John may be true;
+3. The thing that John said may be true;
+4. He was astonished at what he found.
+5. Now all that was needed were the parents, but they were absent.
+6. All that Billy told us a year ago has become true.
+
+造句练习：
+
+1. I didn't catch what you (just) said. Could you please say it again?
+2. I know what you mean, but I don't agree(can't agree with you).
+
+其他不太常用复合关系代词：
+
+1. 代替人：whoever = anybody who, whomever = anybody whom;
+2. 代替物：whatever = anything which;
+3. 代替人或物: whichever = anyone which/who = either which/ who;
+
+Example:
+
+1. She would do whatever she wanted to. == She would do anything which she wanted to.
+2. Whoever plays with fire gets burnt. == Anybody who plays the fire gets burnt.
+3. I'll teach English to whoever wants to learn it. == I'll teach English to anybody who wants to learn it.
+
+## 4.4 副词关系词
+
+关系副词一共有3种，均是由“介词+关系代词which”变化而来。
+
+1. where = in which, on which, at which代替地方的名词；
+2. when = in which, on which, at which代替时间的名词；
+3. why = for which代替the reason；
+
+在限定性定语从句中，where不能省略，when和why可以省略。
+
+Example:
+
+1. Mrs. Brabante is talking to the manager of the local factory where the crop is processed. (where = in the factory = in which)
+2. There will be moments in life when you are confronted with new options. (when = in these moments = in which)
+3. Unsuccessful people can always find reasons why they are not doing well. (why = for those reasons = for which)
+
+先行词为The way时，后面的关系副词in which或者that是可以省略的。
+
+1. The assistant who served her did not like the way (in which) she was dressed.
+2. I liked the way (in which) she organized the meeting.
+3. I hate the way (in which) he stares at me.
+4. The only way (that) they can preserve their history is to recount it as sagas.
+
+Attention: the way可被how取代，变成宾语从句，意思不变，但用得不多
+
+1. The assistant who served her did not like how she was dressed.
+2. I like how she organized the meeting.
+3. I hate how she stares at me.
+
+Attention: the way也可以作副词连词引导状语从句：
+
+1. I admire the way you speak to your students.（定语从句）
+2. You should do it the way you were taught.(状语从句)
+
+Attention: Where,when代替的先行词作be动词的表语时，可省略先行词，保留关系副词：
+
+1. This is (the place) where he was born.
+2. That is (the day) when he will come.
+
+Attention: 某些表示时间的名词短语，后面接着没有引导词的句子，其实就是省略了关系副词when，如by the time, at the time, next time, every time, the first time, the day...
+
+1. Every time (when) he wanted to come into the garden he would bark until someone open the gate.
+2. By the time (when) you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful picture.
+
+造句练习：
+
+1. 11 o'clock in the morning is (the time when the exam will be over and all the students must put their pens down.)<!--the end time of exam when all the students should put down the pen.--> 
+2. I want to know the reason (why) you were late (to)~~for~~ school this morning.
+3. There is a place on the moon, where (Neil Armstrong took his first step.)~~is the first step by .~~
+4. This is the way he figure out(handled) the problems.
+5. Sometimes we imaged a desert island as the paradise where the sun shines all the time. (Sometimes we imagine a desert island to be a sort of paradise where the sun always shines)
 
 
 
